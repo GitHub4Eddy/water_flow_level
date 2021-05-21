@@ -1,8 +1,6 @@
 # water_flow_level
 
-QuickApp Water Flow Level 
-
-This QuickApp gets the actual water levels or flow from rivers in France
+This QuickApp (for the Fibaro Homecenter 3) gets the actual water levels or flow from rivers in France
 The latest water level or flow of your selected hydro station is updated in the value of this QuickApp
 You can choose between Water Level or Water Flow. If you want both, simply install the QuickApp twice
 See for more information: https://www.vigicrues.gouv.fr
